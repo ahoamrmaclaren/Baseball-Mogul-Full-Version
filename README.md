@@ -238,3 +238,6 @@ This repository serves as the official landing page for Baseball Mogul. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Baseball Mogul today!**
+
+---
+**Last updated:** 2026-09-07 14:58:59 UTC
